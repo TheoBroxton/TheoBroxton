@@ -1,6 +1,6 @@
 Hi, my name is Theo Broxton
 
-I am a Physics student at The University of Manchester, currently in my second year of the MPhys with Theoretical Physics stream.
+I am a Physics student at The University of Manchester, currently in my third year of the MPhys with Theoretical Physics stream.
 My interests are in: 
 - Computational physics
 - Mathematical finance
